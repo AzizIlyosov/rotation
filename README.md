@@ -1,2 +1,2 @@
 # rotation
-this  deel learning  model learns angle  between reference image  and  image  
+this  deep learning  model learns angle  between reference image  and  image  
