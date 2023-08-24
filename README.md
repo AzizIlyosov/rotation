@@ -1,2 +1,2 @@
 # rotation
-this  deep learning  model learns angle  between reference image  and  image  
+this  deep learning  model will be trained to predict angle  between original and  rotated image
